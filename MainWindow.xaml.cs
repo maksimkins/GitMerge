@@ -23,6 +23,7 @@ namespace GitMerge
         public MainWindow()
         {
             InitializeComponent();
+            this;
         }
     }
 }
