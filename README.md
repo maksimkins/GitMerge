@@ -1,1 +1,2 @@
 # GitMerge
+change in john  
