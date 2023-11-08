@@ -1,2 +1,3 @@
 # GitMerge
-change in john  
+change in alex(before chnged in dev) 
+
